@@ -21,3 +21,9 @@ Some feature may require Donator status. If you're interested, check out the `Do
 
 ## Credits
 The credits can be found in the application on the `About` tab.
+
+## Contact
+
+- [YouTube](https://www.youtube.com/user/BullyWiiPlaza)
+- bullywiihacks AT gmail DOT com (E-Mail)
+- [Discord](https://discord.gg/5JcvrUg) (BullyWiiPlaza#3947)
