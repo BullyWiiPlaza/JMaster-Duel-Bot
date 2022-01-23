@@ -11,7 +11,7 @@ Please go to the [GitHub Releases page](../../releases/latest) in order to downl
 The features currently are:
 - [Instant Win](https://www.youtube.com/watch?v=7_rI8beVxaM) (story mode)
 - [Reveal All Cards](https://www.youtube.com/watch?v=AK-TBbZb8gc) (PvE and partially PvP)
-- Speed Hack (faster overall gameplay)
+- ~~Speed Hack (faster overall gameplay)~~ Not available yet
 - [Card Rarity Mod](https://www.youtube.com/watch?v=d24A0XXhGMk) (e.g. all cards royal)
 - Disconnect Duel (PvE + PvP)
 - ... potentially more
