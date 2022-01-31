@@ -17,7 +17,7 @@ The tool's features currently are:
 - [Instant Win](https://www.youtube.com/watch?v=7_rI8beVxaM) (story mode)
 - Set your LP
 - [Reveal All Cards](https://www.youtube.com/watch?v=AK-TBbZb8gc) (PvE and partially PvP, in PvP the opponent's facedown cards turn pink)
-- Speed Hack (faster overall gameplay/animations)
+- [Speed Hack](https://www.youtube.com/watch?v=88L3He5ybjM) (faster overall gameplay/animations)
 - [Card Rarity Mod](https://www.youtube.com/watch?v=d24A0XXhGMk) (All cards a certain rarity but visual only mod during duels)
 - [Duel Skipper](https://www.youtube.com/watch?v=34L1Rf_eAB0) (Faster "Instant Win" when used with "Duel Result" set to "Win")
 - Disconnect Duel (Avoid losses in PvP)
