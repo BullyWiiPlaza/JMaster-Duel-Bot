@@ -25,8 +25,12 @@ When using the launcher, download and use the recommended Java version to avoid 
 ## Download
 Please go to the [GitHub Releases page](../../releases/latest) in order to download the application.
 
+### Anti Virus
+If you get an anti virus alert of "trojan" or "trojan.downloader" then it only means that the anti virus detected a downloading/updating functionality. It's harmless since the bot has those built-in to work better and supply you with the latest version automatically. [You might need to allow the launcher in your anti virus settings](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26). Feel free to run it in a virtual machine for testing if you don't trust it at first in order to see if it's legit.
+
 ## Features
 The tool's features currently are:
+- [Botting solo duels for XP](https://www.youtube.com/watch?v=hJbZtvzDB1Q) (and therefore unlimited lifetime mission gem rewards)
 - Starting, quitting, pausing and resuming the game
 - [Instant Win](https://www.youtube.com/watch?v=7_rI8beVxaM) (story mode)
 - Set your LP
@@ -38,7 +42,7 @@ The tool's features currently are:
 - *... potentially more*
 
 ## Donator
-Some feature may require Donator status. If you're interested in unlocking all features and/or supporting this project, check out the `Donator` tab in the application.
+Some feature may require Donator status. If you're interested in unlocking all features, check out the `Donator` tab in the application. Thank you for supporting this project. With your contribution, we can make the bot great again.™
 
 ## Credits
 The credits can be found in the application on the `About` tab.
