@@ -39,7 +39,7 @@ The tool's features currently are:
 - [Card Rarity Mod](https://www.youtube.com/watch?v=d24A0XXhGMk) (All cards a certain rarity but visual only mod during duels)
 - [Duel Skipper](https://www.youtube.com/watch?v=34L1Rf_eAB0) (Faster "Instant Win" when used with "Duel Result" set to "Win")
 - [Disconnect Duel](https://www.youtube.com/watch?v=ynMg10qTHbo) (Avoid losses in PvP)
-- [PvP Surrender Mod](https://www.youtube.com/watch?v=ztSCcWuZ3ds) (Force your opponent to surrender so you win instantly)
+- ~~[PvP Surrender Mod [Credits to traumschmuser]](https://www.youtube.com/watch?v=ztSCcWuZ3ds) (Force your opponent to surrender so you win instantly).~~ Note: No longer working, patched by Konami
 - Disable PvP Inactivity Surrender (No longer lose automatically for being idle)
 - *... potentially more*
 
