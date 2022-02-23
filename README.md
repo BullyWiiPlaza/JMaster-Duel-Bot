@@ -25,9 +25,6 @@ When using the launcher, download and use the recommended Java version to avoid 
 ## Download
 Please go to the [GitHub Releases page](../../releases/latest) in order to download the application.
 
-### Anti Virus
-If you get an anti virus alert of "trojan" or "trojan.downloader" then it only means that the anti virus detected a downloading/updating functionality. It's harmless since the bot has those built-in to work better and supply you with the latest version automatically. [You might need to allow the launcher in your anti virus settings](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26). Feel free to run it in a virtual machine for testing if you don't trust it at first in order to see if it's legit.
-
 ## Features
 The tool's features currently are:
 - [Botting solo duels for XP](https://www.youtube.com/watch?v=hJbZtvzDB1Q) (and therefore unlimited lifetime mission gem rewards)
@@ -41,6 +38,7 @@ The tool's features currently are:
 - [Disconnect Duel](https://www.youtube.com/watch?v=ynMg10qTHbo) (Avoid losses in PvP)
 - ~~[PvP Surrender Mod [Credits to traumschmuser]](https://www.youtube.com/watch?v=ztSCcWuZ3ds) (Force your opponent to surrender so you win instantly).~~ Note: No longer working, patched by Konami
 - Disable PvP Inactivity Surrender (No longer lose automatically for being idle)
+- Disable Unity Crash Reporter (no crash reports sent to Konami): This happens automatically when running the application
 - *... potentially more*
 
 ## Donator
