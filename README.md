@@ -39,6 +39,7 @@ The tool's features currently are:
 - ~~[PvP Surrender Mod [Credits to traumschmuser]](https://www.youtube.com/watch?v=ztSCcWuZ3ds) (Force your opponent to surrender so you win instantly).~~ Note: No longer working, patched by Konami
 - Disable PvP Inactivity Surrender (No longer lose automatically for being idle)
 - Disable Unity Crash Reporter (no crash reports sent to Konami): This happens automatically when running the application
+- [Play illegal Decks in PvP](https://www.youtube.com/watch?v=ZdcfKqkr1jk) (forbidden cards and non-owned cards, essentially unlock all cards at 3x)
 - *... potentially more*
 
 ## Donator
