@@ -36,7 +36,7 @@ The tool's features currently are:
 - [Card Rarity Mod](https://www.youtube.com/watch?v=d24A0XXhGMk) (All cards a certain rarity but visual only mod during duels)
 - [Duel Skipper](https://www.youtube.com/watch?v=34L1Rf_eAB0) (Faster "Instant Win" when used with "Duel Result" set to "Win")
 - [Disconnect Duel](https://www.youtube.com/watch?v=ynMg10qTHbo) (Avoid losses in PvP)
-- [~~PvP~~ S Surrender Mod [Credits to traumschmuser]](https://www.youtube.com/watch?v=ztSCcWuZ3ds) (Force your opponent to surrender so you win instantly).
+- [~~PvP~~ Solo Surrender Mod [Credits to traumschmuser]](https://www.youtube.com/watch?v=ztSCcWuZ3ds) (Force your opponent to surrender so you win instantly).
 - Disable PvP Inactivity Surrender (No longer lose automatically for being idle)
 - Disable Unity Crash Reporter (no crash reports sent to Konami): This happens automatically when running the application
 - [Play illegal Decks in ~~PvP~~ Solo](https://www.youtube.com/watch?v=ZdcfKqkr1jk) (forbidden cards and non-owned cards, essentially unlock all cards at 3x and allow playing less than 40 cards in your main deck)
